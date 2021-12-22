@@ -3,7 +3,7 @@
 
 ## Dataset:
 
-> The dataset used in the investigation is the United States flights, this dataset was collected in 2008, there are 7M recorded approximately and 29 columns after cleaning remain  6.85M records approximately 10 columns, the 10 columns is (date, DayOfWeek, UniqueCarrier, FlightNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, Distance).
+> The dataset used in the investigation is the United States flights, this dataset was collected in 2008, there are 7M recorded approximately and 29 columns after cleaning remain  6.85M records approximately and 10 columns, the 10 columns is (date, DayOfWeek, UniqueCarrier, FlightNum, ActualElapsedTime, CRSElapsedTime, AirTime, ArrDelay, DepDelay, Distance).
 
 
 ## Summary of Findings:
